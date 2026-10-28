@@ -1,27 +1,17 @@
 {
   "schema": 1,
   "snapshotDate": "2026-10-28",
-  "releasePublished": false,
+  "releasePublished": true,
+  "repository": "https://github.com/napalen0/redsuns-modpack",
+  "releaseUrl": "https://github.com/napalen0/redsuns-modpack/releases/tag/modpack-0fab4a7d91d5bd65",
+  "releaseTag": "modpack-0fab4a7d91d5bd65",
   "assetCount": 29,
-  "totalSize": 7892585555,
-  "plannedReleaseTag": "modpack-65865f61ed13c3e3",
+  "totalSize": 7892588224,
   "manifests": [
-    {
-      "path": "common-manifest.json",
-      "sha256": "4211872b87e614de7c20c4d53c59ff4656bb26899f22dce09bb61057f7a0f3d1"
-    },
-    {
-      "path": "mods-manifest.json",
-      "sha256": "14e00d20e99ccdf8d3704f784583af0dc2c89e09a0df23b28e25e0e2d0b76046"
-    },
-    {
-      "path": "servers/server-1.json",
-      "sha256": "14e00d20e99ccdf8d3704f784583af0dc2c89e09a0df23b28e25e0e2d0b76046"
-    },
-    {
-      "path": "servers/server-2.json",
-      "sha256": "a65807f41fe6d8bdd85c150fec8e5d83cbe6a27eb410a8658d5762dc09824642"
-    }
+    "common-manifest.json",
+    "mods-manifest.json",
+    "servers/server-1.json",
+    "servers/server-2.json"
   ],
   "assets": [
     {
@@ -31,7 +21,8 @@
       "size": 1005864189,
       "sha256": "02fc56b615e8935041d3cee20009c494304787b71fabedb72e397ba044cadbd2",
       "releaseAssetName": "02fc56b615e8935041d3cee20009c494304787b71fabedb72e397ba044cadbd2.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Wheels_And_Common_Pack_For_S15.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/02fc56b615e8935041d3cee20009c494304787b71fabedb72e397ba044cadbd2.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Wheels_And_Common_Pack_For_S15.zip"
     },
     {
       "names": [
@@ -40,7 +31,8 @@
       "size": 210966171,
       "sha256": "0caf8bc57286c42b622aa70d41f2fb6455216bd3c1e2237742b9c70743253d4d",
       "releaseAssetName": "0caf8bc57286c42b622aa70d41f2fb6455216bd3c1e2237742b9c70743253d4d.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_vehicle_mark2_jzx90.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/0caf8bc57286c42b622aa70d41f2fb6455216bd3c1e2237742b9c70743253d4d.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_vehicle_mark2_jzx90.zip"
     },
     {
       "names": [
@@ -49,7 +41,8 @@
       "size": 1098048043,
       "sha256": "1361914d7144cae048a8a0bc1dd63f4cabda736f4eccbcdd51e9547c798a0e1f",
       "releaseAssetName": "1361914d7144cae048a8a0bc1dd63f4cabda736f4eccbcdd51e9547c798a0e1f.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_vehicle_mark2_jzx100.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/1361914d7144cae048a8a0bc1dd63f4cabda736f4eccbcdd51e9547c798a0e1f.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_vehicle_mark2_jzx100.zip"
     },
     {
       "names": [
@@ -58,7 +51,8 @@
       "size": 125450909,
       "sha256": "171387f3821faa367b5e24e92c42b6b0a15a69b008be13d8a09bd6849b26ac14",
       "releaseAssetName": "171387f3821faa367b5e24e92c42b6b0a15a69b008be13d8a09bd6849b26ac14.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/vr30.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/171387f3821faa367b5e24e92c42b6b0a15a69b008be13d8a09bd6849b26ac14.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/vr30.zip"
     },
     {
       "names": [
@@ -67,7 +61,8 @@
       "size": 2446,
       "sha256": "20932653677094587cd5ead4b262562de27b929b53baf58d9356effc09d5446f",
       "releaseAssetName": "20932653677094587cd5ead4b262562de27b929b53baf58d9356effc09d5446f.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_vehicle_mark2_jzx100_tirefix.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/20932653677094587cd5ead4b262562de27b929b53baf58d9356effc09d5446f.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_vehicle_mark2_jzx100_tirefix.zip"
     },
     {
       "names": [
@@ -76,7 +71,8 @@
       "size": 177663347,
       "sha256": "3392b8fe220eb026edd64445810b8e3bf28c7c17b234af9e3472cb17b5078d25",
       "releaseAssetName": "3392b8fe220eb026edd64445810b8e3bf28c7c17b234af9e3472cb17b5078d25.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Altezza_1.0.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/3392b8fe220eb026edd64445810b8e3bf28c7c17b234af9e3472cb17b5078d25.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Altezza_1.0.zip"
     },
     {
       "names": [
@@ -85,7 +81,8 @@
       "size": 259455715,
       "sha256": "33b6b335227f8905b31121747f8e3bd0dd2c6afcf70437bde69501d0584bc7c7",
       "releaseAssetName": "33b6b335227f8905b31121747f8e3bd0dd2c6afcf70437bde69501d0584bc7c7.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Toyota_Chaser_X100.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/33b6b335227f8905b31121747f8e3bd0dd2c6afcf70437bde69501d0584bc7c7.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Toyota_Chaser_X100.zip"
     },
     {
       "names": [
@@ -94,7 +91,8 @@
       "size": 902647383,
       "sha256": "3e2a97ddae97c622c77bff1dc598a03a39f0b458bb9b886fa1b7b2f374d2f5d2",
       "releaseAssetName": "3e2a97ddae97c622c77bff1dc598a03a39f0b458bb9b886fa1b7b2f374d2f5d2.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_vehicle_cresta_jzx100.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/3e2a97ddae97c622c77bff1dc598a03a39f0b458bb9b886fa1b7b2f374d2f5d2.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_vehicle_cresta_jzx100.zip"
     },
     {
       "names": [
@@ -103,7 +101,8 @@
       "size": 311209760,
       "sha256": "41c4bfacdc782a28133df08b4ac869c672a3af47acd9046351c601e2da0582a4",
       "releaseAssetName": "41c4bfacdc782a28133df08b4ac869c672a3af47acd9046351c601e2da0582a4.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Toyota_Supra_A80_v2.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/41c4bfacdc782a28133df08b4ac869c672a3af47acd9046351c601e2da0582a4.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Toyota_Supra_A80_v2.zip"
     },
     {
       "names": [
@@ -112,7 +111,8 @@
       "size": 3958433,
       "sha256": "48c523fd0336d078279a3deda9802651f8c1e8ddbfd19340e830a37f241bf2ec",
       "releaseAssetName": "48c523fd0336d078279a3deda9802651f8c1e8ddbfd19340e830a37f241bf2ec.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/enhanceddriver.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/48c523fd0336d078279a3deda9802651f8c1e8ddbfd19340e830a37f241bf2ec.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/enhanceddriver.zip"
     },
     {
       "names": [
@@ -121,7 +121,8 @@
       "size": 37972,
       "sha256": "4e520e2183ba5baba8b42a78099602e4175df248c03eada3aff0dfe024b8fac8",
       "releaseAssetName": "4e520e2183ba5baba8b42a78099602e4175df248c03eada3aff0dfe024b8fac8.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/enhanced_chase_camera.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/4e520e2183ba5baba8b42a78099602e4175df248c03eada3aff0dfe024b8fac8.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/enhanced_chase_camera.zip"
     },
     {
       "names": [
@@ -130,7 +131,8 @@
       "size": 307891,
       "sha256": "588f7c3034cdfcf464f2e52465063fb655a941d3adac8c03ed54161069451a0a",
       "releaseAssetName": "588f7c3034cdfcf464f2e52465063fb655a941d3adac8c03ed54161069451a0a.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Toyota_Supra_A80_Previews.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/588f7c3034cdfcf464f2e52465063fb655a941d3adac8c03ed54161069451a0a.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Toyota_Supra_A80_Previews.zip"
     },
     {
       "names": [
@@ -139,7 +141,8 @@
       "size": 8363857,
       "sha256": "67244923373a31b6a054e203618f0d99e8beecc4b7bfa8b0a0b5d95591eacd03",
       "releaseAssetName": "67244923373a31b6a054e203618f0d99e8beecc4b7bfa8b0a0b5d95591eacd03.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/japan_plates_am5.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/67244923373a31b6a054e203618f0d99e8beecc4b7bfa8b0a0b5d95591eacd03.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/japan_plates_am5.zip"
     },
     {
       "names": [
@@ -148,16 +151,8 @@
       "size": 336577504,
       "sha256": "715298e805c0845cfdf5d2ea9b923f779b53f105eb9982d8b1482c2362a0da09",
       "releaseAssetName": "715298e805c0845cfdf5d2ea9b923f779b53f105eb9982d8b1482c2362a0da09.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Vossen_Work_Wheelpack.zip"
-    },
-    {
-      "names": [
-        "Framework_UI.zip"
-      ],
-      "size": 41443157,
-      "sha256": "75262973c05ce8d8f78d29bd170416d9e69026baaadaa3eed2d184fae1dc92b5",
-      "releaseAssetName": "75262973c05ce8d8f78d29bd170416d9e69026baaadaa3eed2d184fae1dc92b5.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Framework_UI.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/715298e805c0845cfdf5d2ea9b923f779b53f105eb9982d8b1482c2362a0da09.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Vossen_Work_Wheelpack.zip"
     },
     {
       "names": [
@@ -166,7 +161,8 @@
       "size": 448506820,
       "sha256": "7ee5783d1f3afbc71a749761f41696a6ea1c41e6918fa3d7635b23bf8be90719",
       "releaseAssetName": "7ee5783d1f3afbc71a749761f41696a6ea1c41e6918fa3d7635b23bf8be90719.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/BMW_E36_by_desu_redsuns.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/7ee5783d1f3afbc71a749761f41696a6ea1c41e6918fa3d7635b23bf8be90719.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/BMW_E36_by_desu_redsuns.zip"
     },
     {
       "names": [
@@ -175,7 +171,8 @@
       "size": 448181036,
       "sha256": "7fd2742e922cf250fa85b479cd6e99fc70dfb62c16b25f765f68aaf3c6a073f9",
       "releaseAssetName": "7fd2742e922cf250fa85b479cd6e99fc70dfb62c16b25f765f68aaf3c6a073f9.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/B3_Silvia_S15_RedSuns.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/7fd2742e922cf250fa85b479cd6e99fc70dfb62c16b25f765f68aaf3c6a073f9.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/B3_Silvia_S15_RedSuns.zip"
     },
     {
       "names": [
@@ -184,7 +181,8 @@
       "size": 5432053,
       "sha256": "94570483f67519c0d1e3025541bc2e46b95e7870576a663c07b449362cd3a59f",
       "releaseAssetName": "94570483f67519c0d1e3025541bc2e46b95e7870576a663c07b449362cd3a59f.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_wheels_kirun_v3.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/94570483f67519c0d1e3025541bc2e46b95e7870576a663c07b449362cd3a59f.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_wheels_kirun_v3.zip"
     },
     {
       "names": [
@@ -193,7 +191,8 @@
       "size": 27256844,
       "sha256": "94685c2e5cd1a59af69224f8e07fb02a1bb36dde013bc95638832322f10d2456",
       "releaseAssetName": "94685c2e5cd1a59af69224f8e07fb02a1bb36dde013bc95638832322f10d2456.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/LXR_R34_config_by_desu.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/94685c2e5cd1a59af69224f8e07fb02a1bb36dde013bc95638832322f10d2456.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/LXR_R34_config_by_desu.zip"
     },
     {
       "names": [
@@ -202,7 +201,8 @@
       "size": 263236546,
       "sha256": "a9577694bf1112bb088ab46b81deec1439dbbc3ac55406aa42e1032afdfc21d8",
       "releaseAssetName": "a9577694bf1112bb088ab46b81deec1439dbbc3ac55406aa42e1032afdfc21d8.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_wheels_dtroxx_bulletz_fix.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/a9577694bf1112bb088ab46b81deec1439dbbc3ac55406aa42e1032afdfc21d8.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_wheels_dtroxx_bulletz_fix.zip"
     },
     {
       "names": [
@@ -211,7 +211,8 @@
       "size": 487691764,
       "sha256": "ab37dc374e544d8df7ed1ca94c160b39338c466d60e0a099b4ce598343cb049b",
       "releaseAssetName": "ab37dc374e544d8df7ed1ca94c160b39338c466d60e0a099b4ce598343cb049b.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/hachiimpreza2.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/ab37dc374e544d8df7ed1ca94c160b39338c466d60e0a099b4ce598343cb049b.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/hachiimpreza2.zip"
     },
     {
       "names": [
@@ -220,7 +221,8 @@
       "size": 48124566,
       "sha256": "b7f1c734b0aff15e0f0d59d90becdbcc680114cdd94106ce1281fa22f8be9575",
       "releaseAssetName": "b7f1c734b0aff15e0f0d59d90becdbcc680114cdd94106ce1281fa22f8be9575.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/yan41kk_steering_wheel_pack.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/b7f1c734b0aff15e0f0d59d90becdbcc680114cdd94106ce1281fa22f8be9575.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/yan41kk_steering_wheel_pack.zip"
     },
     {
       "names": [
@@ -229,7 +231,8 @@
       "size": 153298541,
       "sha256": "bec7a047f26284e389b557bd6db52769b339fc4863fff29590607a054ed21791",
       "releaseAssetName": "bec7a047f26284e389b557bd6db52769b339fc4863fff29590607a054ed21791.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/2K-Akagi-RedSuns.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/bec7a047f26284e389b557bd6db52769b339fc4863fff29590607a054ed21791.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/2K-Akagi-RedSuns.zip"
     },
     {
       "names": [
@@ -238,6 +241,7 @@
       "size": 811628692,
       "sha256": "bfa8622bf387feb06ecb4f47c6a85d1c39006d2ae8eecdaf3297806c29deab6d",
       "releaseAssetName": "bfa8622bf387feb06ecb4f47c6a85d1c39006d2ae8eecdaf3297806c29deab6d.zip",
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/bfa8622bf387feb06ecb4f47c6a85d1c39006d2ae8eecdaf3297806c29deab6d.zip",
       "cdnUrl": "https://updates.redsuns.ru/mods/server-2/bfa8622bf387feb06ecb4f47c6a85d1c39006d2ae8eecdaf3297806c29deab6d/Drift-Industrial-RedSuns.zip"
     },
     {
@@ -247,7 +251,18 @@
       "size": 147127191,
       "sha256": "c24dd2b3d02152d8a0dee7882edf27e9ced36de07bcb1fb857cc3fc55d3df896",
       "releaseAssetName": "c24dd2b3d02152d8a0dee7882edf27e9ced36de07bcb1fb857cc3fc55d3df896.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Honda_Civic_EG6.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/c24dd2b3d02152d8a0dee7882edf27e9ced36de07bcb1fb857cc3fc55d3df896.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Honda_Civic_EG6.zip"
+    },
+    {
+      "names": [
+        "Framework_UI.zip"
+      ],
+      "size": 41445826,
+      "sha256": "d53cae28b3e367a653ce95e28e17e5f021c07b22c7adee53edd9e4b6de2c5452",
+      "releaseAssetName": "d53cae28b3e367a653ce95e28e17e5f021c07b22c7adee53edd9e4b6de2c5452.zip",
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/d53cae28b3e367a653ce95e28e17e5f021c07b22c7adee53edd9e4b6de2c5452.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Framework_UI.zip"
     },
     {
       "names": [
@@ -256,7 +271,8 @@
       "size": 656016,
       "sha256": "e2ff7a65cc2f3a4987f3d45012a3e9b1baddd636eb8cca80bffcc5db6fdc5c24",
       "releaseAssetName": "e2ff7a65cc2f3a4987f3d45012a3e9b1baddd636eb8cca80bffcc5db6fdc5c24.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_vehicle_mark2_jzx100_previewfix.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/e2ff7a65cc2f3a4987f3d45012a3e9b1baddd636eb8cca80bffcc5db6fdc5c24.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_vehicle_mark2_jzx100_previewfix.zip"
     },
     {
       "names": [
@@ -265,7 +281,8 @@
       "size": 386338978,
       "sha256": "f0b65cf0d825f540dbf7ae12142b5ba0a3b3ed3bd657e645791aa81b9d7b82f7",
       "releaseAssetName": "f0b65cf0d825f540dbf7ae12142b5ba0a3b3ed3bd657e645791aa81b9d7b82f7.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/LXR_R34_v2.0.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/f0b65cf0d825f540dbf7ae12142b5ba0a3b3ed3bd657e645791aa81b9d7b82f7.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/LXR_R34_v2.0.zip"
     },
     {
       "names": [
@@ -274,7 +291,8 @@
       "size": 88585472,
       "sha256": "f212e43a0f54f9c029327f886c49aeb606e93556b7c369a80fe31bb701e582d2",
       "releaseAssetName": "f212e43a0f54f9c029327f886c49aeb606e93556b7c369a80fe31bb701e582d2.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/Mazda_RX-7.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/f212e43a0f54f9c029327f886c49aeb606e93556b7c369a80fe31bb701e582d2.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/Mazda_RX-7.zip"
     },
     {
       "names": [
@@ -283,7 +301,8 @@
       "size": 94524259,
       "sha256": "f8cb89ebd2c3c260bbbee2af26f41d2fba9e2b985995a3b96dc6a10e2a0ec826",
       "releaseAssetName": "f8cb89ebd2c3c260bbbee2af26f41d2fba9e2b985995a3b96dc6a10e2a0ec826.zip",
-      "cdnUrl": "https://updates.redsuns.ru/mods/releases/r788e441a59bfa8e0/files/redsuns_wheels_zl_v3.zip"
+      "githubUrl": "https://github.com/napalen0/redsuns-modpack/releases/download/modpack-0fab4a7d91d5bd65/f8cb89ebd2c3c260bbbee2af26f41d2fba9e2b985995a3b96dc6a10e2a0ec826.zip",
+      "cdnUrl": "https://updates.redsuns.ru/mods/releases/rc144f4a3ff8cc883/files/redsuns_wheels_zl_v3.zip"
     }
   ]
 }
