@@ -137,11 +137,23 @@ class GitHub:
         try:
             release = self.request("GET", base + "/releases/tags/" + plan["tag"])
         except HTTPError as error:
-            if error.code != 404 or not create:
+            if error.code != 404:
                 raise
-            release = self.request("POST", base + "/releases", {
-                "tag_name": plan["tag"], "name": plan["tag"], "draft": True,
-                "body": "Immutable RedSuns resources. Asset names are their SHA-256 digests."})
+            # GitHub's tag lookup hides draft releases, even from the owner.
+            # A resumable upload must find its own draft before creating or
+            # publishing it, or a complete draft can never be activated.
+            release = None
+            for page in range(1, 12):
+                rows = self.request("GET", base + f"/releases?per_page=100&page={page}")
+                release = next((row for row in rows if row.get("tag_name") == plan["tag"]), None)
+                if release is not None or len(rows) < 100:
+                    break
+            if release is None:
+                if not create:
+                    raise
+                release = self.request("POST", base + "/releases", {
+                    "tag_name": plan["tag"], "name": plan["tag"], "draft": True,
+                    "body": "Immutable RedSuns resources. Asset names are their SHA-256 digests."})
         return release
 
     def assets(self, plan: dict, release: dict) -> dict:
