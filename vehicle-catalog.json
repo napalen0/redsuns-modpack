@@ -1,0 +1,2268 @@
+{
+  "schema": 4,
+  "generatedAt": "2026-11-06T06:59:32.539149+00:00",
+  "releases": {
+    "server-1": "b1ba85ea1749778e00b8193b29bd82cde7e88ae46f1079b81cfef05ba25d65f6",
+    "server-2": "31b8a54405910896045377c46728793402beb1e7f07fdbb4216182b1503bd307"
+  },
+  "vehicles": [
+    {
+      "id": "370z",
+      "model": "sfairladyz",
+      "name": "Nissan 370z",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "sourceInfo": "vehicles/sfairladyz/info.json",
+      "sourceInfoSha256": "79c3074e8369d3a979d24eee32e4f4cc9000e7706a701b11c9a811fba00d1020",
+      "sourceBrand": "Nissan",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "370z Formula Drift by desu",
+          "image": "assets/vehicle-configs/f49ce429929f73b6ad66.webp"
+        },
+        {
+          "name": "370z vq37 spec by desu",
+          "image": "assets/vehicle-configs/72753550632bd40305d3.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/876a3057b07020cc2701.webp",
+      "defaultConfig": "370z Formula Drift by desu"
+    },
+    {
+      "id": "crestajzx100",
+      "model": "cresta100",
+      "name": "Toyota Cresta",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/cresta100/info.json",
+      "sourceInfoSha256": "8ec1a13e76d6e2175c67c70e7262ffd8095d49d0ffc8082e80a50e249edecfba",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "2.0_Exceed_AT",
+          "image": "assets/vehicle-configs/e86567eba51a5a80d927.webp"
+        },
+        {
+          "name": "2.0_Exceed_AT_rest",
+          "image": "assets/vehicle-configs/6703ecedbddcb92ab1d9.webp"
+        },
+        {
+          "name": "2.0_Roulant_AT_rest",
+          "image": "assets/vehicle-configs/00eec5c7f4b8748af401.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_AT",
+          "image": "assets/vehicle-configs/1946e109c1c1a4a6462c.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_AT_4k",
+          "image": "assets/vehicle-configs/6652aa606d3b92dad185.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_AT_rest",
+          "image": "assets/vehicle-configs/0bfec511c91b069f22e4.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_Four_AT_rest",
+          "image": "assets/vehicle-configs/e19816507309d329b639.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_MT",
+          "image": "assets/vehicle-configs/4e36f70a9773078e7881.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_MT_rest",
+          "image": "assets/vehicle-configs/0c86182ffe0f2b43b82d.webp"
+        },
+        {
+          "name": "2.0_Super_Lucent_MT_street_swap",
+          "image": "assets/vehicle-configs/d7810bcd37aeac9d074f.webp"
+        },
+        {
+          "name": "2.4_Super_Lucent_AT",
+          "image": "assets/vehicle-configs/c59609a89bbf429cc10c.webp"
+        },
+        {
+          "name": "2.4_Super_Lucent_AT_rest",
+          "image": "assets/vehicle-configs/b0e4b0fc9e77674295d5.webp"
+        },
+        {
+          "name": "2.5_Exceed_AT",
+          "image": "assets/vehicle-configs/98715b6003427924fd96.webp"
+        },
+        {
+          "name": "2.5_Exceed_AT_rest",
+          "image": "assets/vehicle-configs/c495a3088599cd33a245.webp"
+        },
+        {
+          "name": "2.5_Exceed_G_AT",
+          "image": "assets/vehicle-configs/12fdc4034da6b2be469e.webp"
+        },
+        {
+          "name": "2.5_Exceed_G_AT_rest",
+          "image": "assets/vehicle-configs/dd3487e7fedce51c0b21.webp"
+        },
+        {
+          "name": "2.5_Exceed_G_MT_rest_replica",
+          "image": "assets/vehicle-configs/04d01bda26d60949b458.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_AT",
+          "image": "assets/vehicle-configs/6867cc31e15c56a9bb56.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_AT_rest",
+          "image": "assets/vehicle-configs/df1b8408ba46068ce5c2.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_AT_rest_vip",
+          "image": "assets/vehicle-configs/a3e505e0a87349abd4bb.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT",
+          "image": "assets/vehicle-configs/6517d642d0f33415bd73.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_bn_rest",
+          "image": "assets/vehicle-configs/016d6eeff3e5732acb81.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_missle_white",
+          "image": "assets/vehicle-configs/21deb39ba9f54109605c.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_orange",
+          "image": "assets/vehicle-configs/1aac03bd8589e2399c72.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest",
+          "image": "assets/vehicle-configs/fbde5b44e434e58052fb.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_drag",
+          "image": "assets/vehicle-configs/1b7b10e4aaddffedc206.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_itasha",
+          "image": "assets/vehicle-configs/1a3fa2b6af774e08deed.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_missle",
+          "image": "assets/vehicle-configs/f1fa2eb09763022ecb05.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_pro",
+          "image": "assets/vehicle-configs/4d3014d827b72478b04a.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_ret",
+          "image": "assets/vehicle-configs/de5548ae5f55b0e6bad6.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_vsc",
+          "image": "assets/vehicle-configs/2fe4e833810053caa595.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_rest_yellow",
+          "image": "assets/vehicle-configs/0896fc8bd4e178c52dc7.webp"
+        },
+        {
+          "name": "2.5_Roulant_G_MT_vsc",
+          "image": "assets/vehicle-configs/afbf03eed3404db91755.webp"
+        },
+        {
+          "name": "2.5_Roulant_S_AT",
+          "image": "assets/vehicle-configs/d7bcd1bd0aeca0d5a1de.webp"
+        },
+        {
+          "name": "2.5_Roulant_S_AT_bandits",
+          "image": "assets/vehicle-configs/aed0818e958c66106db5.webp"
+        },
+        {
+          "name": "2.5_Roulant_S_AT_rest",
+          "image": "assets/vehicle-configs/a7698df1766bef4830e0.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_AT",
+          "image": "assets/vehicle-configs/a13f45f8bbcf37ce82ba.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_AT_rest",
+          "image": "assets/vehicle-configs/bcae99683c525091af9c.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_Four_AT",
+          "image": "assets/vehicle-configs/eaeff1f78edcc87ae505.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_Four_AT_rest",
+          "image": "assets/vehicle-configs/8e646b2bc08d42774ada.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_Four_G_AT",
+          "image": "assets/vehicle-configs/e4bd3b5d1ddd66f86b88.webp"
+        },
+        {
+          "name": "2.5_Super_Lucent_Four_G_AT_rest",
+          "image": "assets/vehicle-configs/1a42767f7994a026f176.webp"
+        },
+        {
+          "name": "3.0_Exceed_G_AT",
+          "image": "assets/vehicle-configs/ccc7b8cfc71f501c867d.webp"
+        },
+        {
+          "name": "3.0_Exceed_G_AT_rest",
+          "image": "assets/vehicle-configs/8bf02d77acc77a456d0d.webp"
+        },
+        {
+          "name": "3.0_Exceed_G_AT_rest_police",
+          "image": "assets/vehicle-configs/fed3b254d2b6f6436636.webp"
+        },
+        {
+          "name": "3.0_Roulant_G_MT_rest_blue",
+          "image": "assets/vehicle-configs/9464629b355240a53af8.webp"
+        },
+        {
+          "name": "3.0_Roulant_G_MT_rest_kazu",
+          "image": "assets/vehicle-configs/b8c0decb0517088703d8.webp"
+        },
+        {
+          "name": "3.0_Roulant_G_MT_rest_white",
+          "image": "assets/vehicle-configs/7d32561acedb9adb45a8.webp"
+        },
+        {
+          "name": "Yuji_World [OLD]",
+          "image": "assets/vehicle-configs/034ad77011cd6bc1d960.webp"
+        },
+        {
+          "name": "Yuji_World",
+          "image": "assets/vehicle-configs/04aea56273aa9b9ff009.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/70fcbaf6fc0cc2539774.webp",
+      "defaultConfig": "2.5_Roulant_G_MT_rest"
+    },
+    {
+      "id": "e36",
+      "model": "BMW_E36",
+      "name": "BMW E36",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "sourceInfo": "vehicles/BMW_E36/info.json",
+      "sourceInfoSha256": "f6b6b6e0606cd5e4435ab50122ef3990aa9ed102cd94ceb77302bea0e3a11dbe",
+      "sourceBrand": "BMW",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "E36 by Desu",
+          "image": "assets/vehicle-configs/9ce72e87e8dc9e22bbc6.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/c081db1811e4893e83f1.webp",
+      "defaultConfig": "E36 by Desu"
+    },
+    {
+      "id": "mark2jzx100",
+      "model": "nark100",
+      "name": "Toyota Mark II",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/nark100/info.json",
+      "sourceInfoSha256": "5f1f72fda64839f96a26c48b79e1d4d9ee046103cff9b85f1e913e8ef144cb9f",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "2.0_grande_AT",
+          "image": "assets/vehicle-configs/005ba8e29b45c75606ba.webp"
+        },
+        {
+          "name": "2.0_grande_AT_rest",
+          "image": "assets/vehicle-configs/85838824bcdbbcba2199.webp"
+        },
+        {
+          "name": "2.0_grande_MT",
+          "image": "assets/vehicle-configs/25185a104f6554479778.webp"
+        },
+        {
+          "name": "2.0_grande_MT_rest",
+          "image": "assets/vehicle-configs/d3827f2d430bf1d0e17d.webp"
+        },
+        {
+          "name": "2.0_grande_MT_rest_trup",
+          "image": "assets/vehicle-configs/518c82a47c7aa8767686.webp"
+        },
+        {
+          "name": "2.0_grande_four_AT_rest",
+          "image": "assets/vehicle-configs/6521b5552cd62e9ecda5.webp"
+        },
+        {
+          "name": "2.0_grande_regalia_AT",
+          "image": "assets/vehicle-configs/76008f01d7e830f02eca.webp"
+        },
+        {
+          "name": "2.0_grande_regalia_AT_rest",
+          "image": "assets/vehicle-configs/c9b3e1f2e9e5ee190cfe.webp"
+        },
+        {
+          "name": "2.0_grande_regalia_four_AT_rest",
+          "image": "assets/vehicle-configs/d9ce7962aa7edf5fbf27.webp"
+        },
+        {
+          "name": "2.0_tourer_AT",
+          "image": "assets/vehicle-configs/08e64c6a479706687604.webp"
+        },
+        {
+          "name": "2.0_tourer_AT_rest",
+          "image": "assets/vehicle-configs/b592f8b018cea81b1899.webp"
+        },
+        {
+          "name": "2.4_diesel_turbo_gl_AT",
+          "image": "assets/vehicle-configs/ea75882db22ba1bc5e56.webp"
+        },
+        {
+          "name": "2.4_diesel_turbo_grande_AT_rest",
+          "image": "assets/vehicle-configs/7e6b74e4e681100f30dc.webp"
+        },
+        {
+          "name": "2.4_diesel_turbo_grande_AT_rest_v8",
+          "image": "assets/vehicle-configs/3bff82298a58cbd2c706.webp"
+        },
+        {
+          "name": "2.5_grande_AT",
+          "image": "assets/vehicle-configs/e45358b3189d8b59612d.webp"
+        },
+        {
+          "name": "2.5_grande_AT_rest",
+          "image": "assets/vehicle-configs/3c4304486bbe2e46ddea.webp"
+        },
+        {
+          "name": "2.5_grande_G_AT",
+          "image": "assets/vehicle-configs/726a4e2a82a95a1211e5.webp"
+        },
+        {
+          "name": "2.5_grande_G_AT_rest",
+          "image": "assets/vehicle-configs/5787d6dab327d0486eb0.webp"
+        },
+        {
+          "name": "2.5_grande_G_four_AT",
+          "image": "assets/vehicle-configs/165425c801c9c8441a00.webp"
+        },
+        {
+          "name": "2.5_grande_G_four_AT_rest",
+          "image": "assets/vehicle-configs/d0a1d43b29b6f623b1ac.webp"
+        },
+        {
+          "name": "2.5_grande_MT_swap",
+          "image": "assets/vehicle-configs/8e4660be9ad4173637ac.webp"
+        },
+        {
+          "name": "2.5_grande_four_AT",
+          "image": "assets/vehicle-configs/283cf66d2280ba9fc9f6.webp"
+        },
+        {
+          "name": "2.5_grande_four_AT_rest",
+          "image": "assets/vehicle-configs/e0ed0c9429d800a4987d.webp"
+        },
+        {
+          "name": "2.5_grande_regalia_AT",
+          "image": "assets/vehicle-configs/b0ecb37cb7c81c50adc2.webp"
+        },
+        {
+          "name": "2.5_grande_regalia_AT_rest",
+          "image": "assets/vehicle-configs/fdc4db45401a02ecfca6.webp"
+        },
+        {
+          "name": "2.5_grande_regalia_MT_missle",
+          "image": "assets/vehicle-configs/0102a336fdf60b9dc889.webp"
+        },
+        {
+          "name": "2.5_tourerV_AT_drag",
+          "image": "assets/vehicle-configs/fc93fd807afdddd13f11.webp"
+        },
+        {
+          "name": "2.5_tourer_S_AT",
+          "image": "assets/vehicle-configs/faf81d9fe30c459ae484.webp"
+        },
+        {
+          "name": "2.5_tourer_S_AT_rest",
+          "image": "assets/vehicle-configs/f8b74318e04de9ea9bae.webp"
+        },
+        {
+          "name": "2.5_tourer_S_VSC_AT",
+          "image": "assets/vehicle-configs/d64a3a47f6a0c8c45c35.webp"
+        },
+        {
+          "name": "2.5_tourer_S_VSC_AT_rest",
+          "image": "assets/vehicle-configs/04b2fb2f0ba154809ec7.webp"
+        },
+        {
+          "name": "2.5_tourer_V_AT",
+          "image": "assets/vehicle-configs/4bb5a6699146b3c97bea.webp"
+        },
+        {
+          "name": "2.5_tourer_V_AT_rest",
+          "image": "assets/vehicle-configs/45b50f2e25e1c6e722e8.webp"
+        },
+        {
+          "name": "2.5_tourer_V_AT_rest_stance",
+          "image": "assets/vehicle-configs/b3d1d13a458949119c4e.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT",
+          "image": "assets/vehicle-configs/a72a5cbaa38016e5c683.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_new_street_livery",
+          "image": "assets/vehicle-configs/65c576c766d50519f7cd.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest",
+          "image": "assets/vehicle-configs/b2c77b878f4839472cd2.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_bn",
+          "image": "assets/vehicle-configs/0a672b189cd5a4527b6c.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_bnsport",
+          "image": "assets/vehicle-configs/2a3eeebad6349805b2df.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_d1gp",
+          "image": "assets/vehicle-configs/0f65de922a8968c1fffd.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_holikorn",
+          "image": "assets/vehicle-configs/a3d6b4909ed9de437d89.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_itasha",
+          "image": "assets/vehicle-configs/45208a27e5a7423d2bb1.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_itasha_missle",
+          "image": "assets/vehicle-configs/5795c0f831cb11c79972.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_originlaboanimal",
+          "image": "assets/vehicle-configs/535eaf89f52488ebabfb.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_originlabostreet",
+          "image": "assets/vehicle-configs/508e63219a8c0ab4e775.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_sakhalin",
+          "image": "assets/vehicle-configs/2e99d835d4f98af07c0a.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_street",
+          "image": "assets/vehicle-configs/e1e642a933144674188c.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_traum",
+          "image": "assets/vehicle-configs/66d3516cde1bbb202ea6.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_uras",
+          "image": "assets/vehicle-configs/67c419acfa9f9b53b71d.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_uras_signal",
+          "image": "assets/vehicle-configs/f83b9238585e9562b8c6.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_vertex_lang",
+          "image": "assets/vehicle-configs/e2f3ccc0769bcd6d3142.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_vertex_lang_final",
+          "image": "assets/vehicle-configs/61e29de4e5d55afd3f2f.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_rest_vertex_lang_race",
+          "image": "assets/vehicle-configs/1f2cc728d26e2d10e839.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_street_livery",
+          "image": "assets/vehicle-configs/a61f446de5b268d0580b.webp"
+        },
+        {
+          "name": "2.5_tourer_V_MT_wald",
+          "image": "assets/vehicle-configs/2510ac1c78733bbbab10.webp"
+        },
+        {
+          "name": "2.5_tourer_V_VSC_AT",
+          "image": "assets/vehicle-configs/ae9be26b02ad377ed065.webp"
+        },
+        {
+          "name": "2.5_tourer_V_VSC_AT_rest",
+          "image": "assets/vehicle-configs/4d396c6170d37d9c388c.webp"
+        },
+        {
+          "name": "2.5_tourer_V_VSC_MT",
+          "image": "assets/vehicle-configs/69d0dfeff4ee8d1fcb5d.webp"
+        },
+        {
+          "name": "2.5_tourer_V_VSC_MT_rest",
+          "image": "assets/vehicle-configs/01044478f665a7a068a6.webp"
+        },
+        {
+          "name": "3.0_grande_G_AT",
+          "image": "assets/vehicle-configs/4e92343755b5e459dabc.webp"
+        },
+        {
+          "name": "3.0_grande_G_AT_police",
+          "image": "assets/vehicle-configs/782f11dd3cb23cffe4bc.webp"
+        },
+        {
+          "name": "3.0_grande_G_AT_rest",
+          "image": "assets/vehicle-configs/45fdd12f8c139883ab38.webp"
+        },
+        {
+          "name": "3.0_tourer_V_AT_rest_900hp",
+          "image": "assets/vehicle-configs/93d653273db92d540297.webp"
+        },
+        {
+          "name": "3.0_tourer_V_MT_rest",
+          "image": "assets/vehicle-configs/41939f7e5720b72ad9c1.webp"
+        },
+        {
+          "name": "3.0_tourer_V_MT_rest_purple",
+          "image": "assets/vehicle-configs/88a309a65320c74e59e6.webp"
+        },
+        {
+          "name": "3.0_tourer_V_MT_time_attack",
+          "image": "assets/vehicle-configs/aca3418bf52f1893589f.webp"
+        },
+        {
+          "name": "3.0_tourer_V_MT_weld",
+          "image": "assets/vehicle-configs/c1a54f93fff27725121d.webp"
+        },
+        {
+          "name": "aba",
+          "image": "assets/vehicle-configs/9628519fb470c46092fd.webp"
+        },
+        {
+          "name": "aba2",
+          "image": "assets/vehicle-configs/dcc586581b823e7de0b0.webp"
+        },
+        {
+          "name": "aba3",
+          "image": "assets/vehicle-configs/fa32b7c068ecd9ae6891.webp"
+        },
+        {
+          "name": "daigo",
+          "image": "assets/vehicle-configs/f8f225a314fa6bd78c38.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/d2fd1f6c822957447b99.webp",
+      "defaultConfig": "3.0_grande_G_AT"
+    },
+    {
+      "id": "civiceg6",
+      "model": "RLA_EG6",
+      "name": "Honda Civic",
+      "brand": "Honda",
+      "brandId": "honda",
+      "sourceInfo": "vehicles/RLA_EG6/info.json",
+      "sourceInfoSha256": "40f588920fabd48fe48962c94c809e70c06aded4d6b4c6b3083cc863506fa566",
+      "sourceBrand": "Honda",
+      "servers": [
+        "server-1"
+      ],
+      "configurations": [
+        {
+          "name": "Clean (RHD) (M)",
+          "image": "assets/vehicle-configs/f5ad743a0c62bb63bb9a.webp"
+        },
+        {
+          "name": "Gutted (RHD) (M)",
+          "image": "assets/vehicle-configs/bcea42da333eeedfbd33.webp"
+        },
+        {
+          "name": "Hello Kitty (RHD) (M)",
+          "image": "assets/vehicle-configs/5d36bec893331d1f54cf.webp"
+        },
+        {
+          "name": "Spoon (Alt) (RHD) (M)",
+          "image": "assets/vehicle-configs/83c8c5e8ad266da2d284.webp"
+        },
+        {
+          "name": "Spoon (RHD) (M)",
+          "image": "assets/vehicle-configs/91cafefe2986ebc6e884.webp"
+        },
+        {
+          "name": "Stock (RHD) (M)",
+          "image": "assets/vehicle-configs/7745642677ee479fb49a.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/c822f6719035413b0dd7.webp",
+      "defaultConfig": "Stock (RHD) (M)"
+    },
+    {
+      "id": "imprezagc8",
+      "model": "hachiimpreza2",
+      "name": "Subaru Impreza",
+      "brand": "Subaru",
+      "brandId": "subaru",
+      "sourceInfo": "vehicles/hachiimpreza2/info.json",
+      "sourceInfoSha256": "9dcfdf6d3ab6e407e68c9f4c4f46f3dfc31d41f653f91d79a0d6fd100ed9bee5",
+      "sourceBrand": "Subaru",
+      "servers": [
+        "server-1"
+      ],
+      "configurations": [
+        {
+          "name": "2.5rs_00",
+          "image": "assets/vehicle-configs/b5568d0d0edabea0ce4c.webp"
+        },
+        {
+          "name": "2.5rs_01",
+          "image": "assets/vehicle-configs/e3aaf5ca006596fda369.webp"
+        },
+        {
+          "name": "2.5rs_98",
+          "image": "assets/vehicle-configs/c6f031d08941ef2fd8fa.webp"
+        },
+        {
+          "name": "2.5rs_99",
+          "image": "assets/vehicle-configs/c1520576d08207d59582.webp"
+        },
+        {
+          "name": "2.5rs_SPT",
+          "image": "assets/vehicle-configs/53e34c0b49e417db02d3.webp"
+        },
+        {
+          "name": "2k_00_YorkshirePolice",
+          "image": "assets/vehicle-configs/6f017c6ecfa3de91db0c.webp"
+        },
+        {
+          "name": "2k_96_Sedan_McRae",
+          "image": "assets/vehicle-configs/eebfbc606ad33561bffa.webp"
+        },
+        {
+          "name": "2k_97_Catalunya",
+          "image": "assets/vehicle-configs/148a182b2a7ccee95468.webp"
+        },
+        {
+          "name": "2k_98_HumbersidePolice",
+          "image": "assets/vehicle-configs/017e83f3f217ca0590bd.webp"
+        },
+        {
+          "name": "2k_98_Terzo",
+          "image": "assets/vehicle-configs/e6e6a860f3af30c704af.webp"
+        },
+        {
+          "name": "2k_99_RB5",
+          "image": "assets/vehicle-configs/be5e421275d6aea59204.webp"
+        },
+        {
+          "name": "2k_99_Sedan",
+          "image": "assets/vehicle-configs/3e8e3a7779171dd4fc39.webp"
+        },
+        {
+          "name": "2k_99_Wagon",
+          "image": "assets/vehicle-configs/68170c3292fec774da06.webp"
+        },
+        {
+          "name": "Base_93_Sedan",
+          "image": "assets/vehicle-configs/fe6220edacac9a9ff310.webp"
+        },
+        {
+          "name": "CF_93_Sedan_Limited",
+          "image": "assets/vehicle-configs/0a5a31f423ca21f22556.webp"
+        },
+        {
+          "name": "CS_93_Wagon",
+          "image": "assets/vehicle-configs/6e7f29b0e2303309aa24.webp"
+        },
+        {
+          "name": "CS_98_CasaBlanca",
+          "image": "assets/vehicle-configs/022daff8b867810bdc34.webp"
+        },
+        {
+          "name": "CS_99_HokkaidoPolice",
+          "image": "assets/vehicle-configs/3b3ed0cddc8d1ef64539.webp"
+        },
+        {
+          "name": "CS_99_Sedan",
+          "image": "assets/vehicle-configs/920c102c20ef2be528e5.webp"
+        },
+        {
+          "name": "CS_99_Sedan_4WD",
+          "image": "assets/vehicle-configs/ed1e26a4587e47308ad9.webp"
+        },
+        {
+          "name": "CZ_99_Sport",
+          "image": "assets/vehicle-configs/d76740922ddee2ffeefb.webp"
+        },
+        {
+          "name": "CZ_99_Sport2",
+          "image": "assets/vehicle-configs/91596dbd2cc7150d1a57.webp"
+        },
+        {
+          "name": "CZ_99_Wagon",
+          "image": "assets/vehicle-configs/424da385b75cf74ba2c6.webp"
+        },
+        {
+          "name": "Cusco22b",
+          "image": "assets/vehicle-configs/1cac70aeb633518f299f.webp"
+        },
+        {
+          "name": "GL_98_holzer",
+          "image": "assets/vehicle-configs/0d0e09c5dd9ed759eec4.webp"
+        },
+        {
+          "name": "GT_99_Sedan",
+          "image": "assets/vehicle-configs/7bd504670bea6587672a.webp"
+        },
+        {
+          "name": "GT_99_Wagon",
+          "image": "assets/vehicle-configs/1598c5de8f1f0d1a752f.webp"
+        },
+        {
+          "name": "GravelCo",
+          "image": "assets/vehicle-configs/1dc7b2dd825a77c6cf7e.webp"
+        },
+        {
+          "name": "LS_93_Sedan",
+          "image": "assets/vehicle-configs/906919341cb80ee39ef8.webp"
+        },
+        {
+          "name": "L_93_Sedan",
+          "image": "assets/vehicle-configs/f6d451b9aa7303a982f3.webp"
+        },
+        {
+          "name": "L_99_Coupe",
+          "image": "assets/vehicle-configs/de621e89625ce67bd9cb.webp"
+        },
+        {
+          "name": "L_99_Sedan",
+          "image": "assets/vehicle-configs/0f453933dd1815eb822c.webp"
+        },
+        {
+          "name": "L_99_Wagon",
+          "image": "assets/vehicle-configs/5c4e5289af57cf1eed0b.webp"
+        },
+        {
+          "name": "OBS_99",
+          "image": "assets/vehicle-configs/1c65bd078af9b8872404.webp"
+        },
+        {
+          "name": "P25",
+          "image": "assets/vehicle-configs/44f46d0db60022aedea9.webp"
+        },
+        {
+          "name": "P25_06",
+          "image": "assets/vehicle-configs/b6eaa2513dca8bbaa4f8.webp"
+        },
+        {
+          "name": "P25_10",
+          "image": "assets/vehicle-configs/2b18061333045de79d2e.webp"
+        },
+        {
+          "name": "P25_20",
+          "image": "assets/vehicle-configs/55cadb813e01ca60c792.webp"
+        },
+        {
+          "name": "STi_00_R",
+          "image": "assets/vehicle-configs/df920d49a0df8a4eea68.webp"
+        },
+        {
+          "name": "STi_00_RA_Limited",
+          "image": "assets/vehicle-configs/fb36be87571cd1327dd7.webp"
+        },
+        {
+          "name": "STi_00_R_Limited",
+          "image": "assets/vehicle-configs/2ab509972aec345839cc.webp"
+        },
+        {
+          "name": "STi_00_Sedan",
+          "image": "assets/vehicle-configs/074aafecfff91a77109d.webp"
+        },
+        {
+          "name": "STi_00_Wagon",
+          "image": "assets/vehicle-configs/61e577c24b540ec64800.webp"
+        },
+        {
+          "name": "STi_00_Wagon_Limited",
+          "image": "assets/vehicle-configs/3adf45e6f9a31649b5ab.webp"
+        },
+        {
+          "name": "STi_00_s201",
+          "image": "assets/vehicle-configs/9856912ca64da32d6d01.webp"
+        },
+        {
+          "name": "STi_94_Sedan",
+          "image": "assets/vehicle-configs/d6791025f2847f74533a.webp"
+        },
+        {
+          "name": "STi_96_RA",
+          "image": "assets/vehicle-configs/8fa4e70595349d9f6985.webp"
+        },
+        {
+          "name": "STi_96_Sedan",
+          "image": "assets/vehicle-configs/94f3676d57d878b2522b.webp"
+        },
+        {
+          "name": "STi_96_Sedan_555",
+          "image": "assets/vehicle-configs/f09db1b26c99e3614033.webp"
+        },
+        {
+          "name": "STi_96_Wagon",
+          "image": "assets/vehicle-configs/b77fc2bf2ce2dade17c7.webp"
+        },
+        {
+          "name": "STi_97_R",
+          "image": "assets/vehicle-configs/a10e1e56c6771bba5300.webp"
+        },
+        {
+          "name": "STi_97_RA",
+          "image": "assets/vehicle-configs/d49d3a6c89312ede7b72.webp"
+        },
+        {
+          "name": "STi_97_Sedan",
+          "image": "assets/vehicle-configs/cc42e0c1d74921780e31.webp"
+        },
+        {
+          "name": "STi_97_Sedan_Limited",
+          "image": "assets/vehicle-configs/c0335446bcdb5aa877c4.webp"
+        },
+        {
+          "name": "STi_97_Wagon",
+          "image": "assets/vehicle-configs/f86941ad294b67e599db.webp"
+        },
+        {
+          "name": "STi_98_22b",
+          "image": "assets/vehicle-configs/08b3d431813e023fb2ee.webp"
+        },
+        {
+          "name": "STi_98_22b_UK",
+          "image": "assets/vehicle-configs/a440221f370e2ad99224.webp"
+        },
+        {
+          "name": "STi_98_R",
+          "image": "assets/vehicle-configs/9b9c14a29de5146ddcec.webp"
+        },
+        {
+          "name": "STi_98_RA",
+          "image": "assets/vehicle-configs/eef90972ccb04b74d352.webp"
+        },
+        {
+          "name": "STi_98_R_Limited",
+          "image": "assets/vehicle-configs/fb1c6886a163b69ecd1d.webp"
+        },
+        {
+          "name": "STi_98_Sedan",
+          "image": "assets/vehicle-configs/066b626bb7e49656506d.webp"
+        },
+        {
+          "name": "STi_98_Wagon",
+          "image": "assets/vehicle-configs/bf8f603c167cdaf805f6.webp"
+        },
+        {
+          "name": "STi_99_R",
+          "image": "assets/vehicle-configs/e3f66f842e7992fca700.webp"
+        },
+        {
+          "name": "STi_99_RA",
+          "image": "assets/vehicle-configs/ccd1155bb173295e5d72.webp"
+        },
+        {
+          "name": "STi_99_Sedan",
+          "image": "assets/vehicle-configs/f3bfb4da45dc7f893b1a.webp"
+        },
+        {
+          "name": "STi_99_Wagon",
+          "image": "assets/vehicle-configs/1bf7920acbedfa73a311.webp"
+        },
+        {
+          "name": "TRY-R",
+          "image": "assets/vehicle-configs/957f6d03a9a0f14f366d.webp"
+        },
+        {
+          "name": "UnimprezziveV2",
+          "image": "assets/vehicle-configs/aabb87f375a1d7a4d3b2.webp"
+        },
+        {
+          "name": "asphaltRally",
+          "image": "assets/vehicle-configs/01311e7e9c0fdbc6dcf7.webp"
+        },
+        {
+          "name": "buckyDaily",
+          "image": "assets/vehicle-configs/515d78f40cb421f5758c.webp"
+        },
+        {
+          "name": "budgetA",
+          "image": "assets/vehicle-configs/dcd81ab454cb9884fbbf.webp"
+        },
+        {
+          "name": "bunta",
+          "image": "assets/vehicle-configs/8ce1f7e6e368ce90ffef.webp"
+        },
+        {
+          "name": "chargespeed1",
+          "image": "assets/vehicle-configs/0a4b8daecb26935215fe.webp"
+        },
+        {
+          "name": "chargespeed2",
+          "image": "assets/vehicle-configs/c6aff23a11837a217b2b.webp"
+        },
+        {
+          "name": "clubevo3",
+          "image": "assets/vehicle-configs/26b6fcd35d3807620241.webp"
+        },
+        {
+          "name": "clubevo4",
+          "image": "assets/vehicle-configs/77c5edb19492d0df1bcb.webp"
+        },
+        {
+          "name": "cooked",
+          "image": "assets/vehicle-configs/51c67cf885dc34112dae.webp"
+        },
+        {
+          "name": "cwest",
+          "image": "assets/vehicle-configs/2e644488ff27b3b602e5.webp"
+        },
+        {
+          "name": "cwest2",
+          "image": "assets/vehicle-configs/f8843689115f532a737a.webp"
+        },
+        {
+          "name": "doluck1",
+          "image": "assets/vehicle-configs/629841a9586fb76f31ac.webp"
+        },
+        {
+          "name": "drag",
+          "image": "assets/vehicle-configs/2aae476d83c1ddf9055c.webp"
+        },
+        {
+          "name": "evenflow",
+          "image": "assets/vehicle-configs/402e958a86aaf4700f1b.webp"
+        },
+        {
+          "name": "gravelRally",
+          "image": "assets/vehicle-configs/6269fd3b82232612fb43.webp"
+        },
+        {
+          "name": "groupA_colin_95_asphalt",
+          "image": "assets/vehicle-configs/43b9ce5d08e63c57141b.webp"
+        },
+        {
+          "name": "groupA_colin_95_gravel",
+          "image": "assets/vehicle-configs/7c1e3faa5015c2402510.webp"
+        },
+        {
+          "name": "hachi",
+          "image": "assets/vehicle-configs/9841b8b38fa5357a8578.webp"
+        },
+        {
+          "name": "m20b",
+          "image": "assets/vehicle-configs/699bfc030096a0ac83ad.webp"
+        },
+        {
+          "name": "m20bwagon",
+          "image": "assets/vehicle-configs/a4d490c77a81da4ad7bb.webp"
+        },
+        {
+          "name": "offroad",
+          "image": "assets/vehicle-configs/1a03b35f9aa632e7a0c9.webp"
+        },
+        {
+          "name": "p1",
+          "image": "assets/vehicle-configs/c647827b352206a05347.webp"
+        },
+        {
+          "name": "ridiculoose",
+          "image": "assets/vehicle-configs/d70020e2ab13941bea90.webp"
+        },
+        {
+          "name": "srx_99_Sedan",
+          "image": "assets/vehicle-configs/bb312203b1e00ea30e74.webp"
+        },
+        {
+          "name": "srx_99_Wagon",
+          "image": "assets/vehicle-configs/e791282647e076032382.webp"
+        },
+        {
+          "name": "stiswap",
+          "image": "assets/vehicle-configs/3978396d56cc2694531c.webp"
+        },
+        {
+          "name": "streetDrift",
+          "image": "assets/vehicle-configs/253009a7f97254098423.webp"
+        },
+        {
+          "name": "track",
+          "image": "assets/vehicle-configs/045256f14f141a7e0428.webp"
+        },
+        {
+          "name": "v6CoupeOptions",
+          "image": "assets/vehicle-configs/235498fd43b1363c6867.webp"
+        },
+        {
+          "name": "wagonTuned",
+          "image": "assets/vehicle-configs/2b349d86658e254e75cc.webp"
+        },
+        {
+          "name": "wrx_00_Classic",
+          "image": "assets/vehicle-configs/8412c2fdbd1f23d4cf4c.webp"
+        },
+        {
+          "name": "wrx_00_RA",
+          "image": "assets/vehicle-configs/2a9e4fc91b68a06b43f5.webp"
+        },
+        {
+          "name": "wrx_94_RA",
+          "image": "assets/vehicle-configs/f4b2b13f2d005ad941c2.webp"
+        },
+        {
+          "name": "wrx_94_Sedan",
+          "image": "assets/vehicle-configs/95dd9b83018b44021a78.webp"
+        },
+        {
+          "name": "wrx_96_GravelExpress",
+          "image": "assets/vehicle-configs/a38e1e1037439aa501f7.webp"
+        },
+        {
+          "name": "wrx_96_RA",
+          "image": "assets/vehicle-configs/eff38f32b67d120b206b.webp"
+        },
+        {
+          "name": "wrx_96_Sedan",
+          "image": "assets/vehicle-configs/3bbef70ca0e94a34a948.webp"
+        },
+        {
+          "name": "wrx_96_Sedan_V",
+          "image": "assets/vehicle-configs/4537a35dccdc73a2729f.webp"
+        },
+        {
+          "name": "wrx_96_Wagon",
+          "image": "assets/vehicle-configs/31b12c903309c930c33d.webp"
+        },
+        {
+          "name": "wrx_97_Sedan",
+          "image": "assets/vehicle-configs/66da53069232ce8e759e.webp"
+        },
+        {
+          "name": "wrx_98_RA",
+          "image": "assets/vehicle-configs/15c5d56b44e5e6166518.webp"
+        },
+        {
+          "name": "wrx_98_R_V",
+          "image": "assets/vehicle-configs/1e458271e59f1a8b3199.webp"
+        },
+        {
+          "name": "wrx_98_Sedan",
+          "image": "assets/vehicle-configs/b15d90e3bcec55e38fe6.webp"
+        },
+        {
+          "name": "wrx_99_AustralianPolice",
+          "image": "assets/vehicle-configs/611e43c5ce3ca0914d70.webp"
+        },
+        {
+          "name": "wrx_99_Sedan",
+          "image": "assets/vehicle-configs/557d6d13690361e1c5d3.webp"
+        },
+        {
+          "name": "yellowbird",
+          "image": "assets/vehicle-configs/7d0bf64a98612d240795.webp"
+        },
+        {
+          "name": "yoat",
+          "image": "assets/vehicle-configs/4e48edc9e331503b00d9.webp"
+        },
+        {
+          "name": "zero",
+          "image": "assets/vehicle-configs/34d378c2db29a94b8735.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/dee863c801dc7d94f071.webp",
+      "defaultConfig": "STi_00_R"
+    },
+    {
+      "id": "chaserjzx100",
+      "model": "100ch_wsife",
+      "name": "Toyota Chaser X100",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/100ch_wsife/info.json",
+      "sourceInfoSha256": "87c4caafd1991a2e01d0c2ed20d8cb1e96b5d056543ac3a4268e9dc766df9d09",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "2.5 Chassis",
+          "image": "assets/vehicle-configs/94124b1c2015fe278f85.webp"
+        },
+        {
+          "name": "2.5 Fast & Furious Zenki (M)",
+          "image": "assets/vehicle-configs/323be09ab1b5841b01f3.webp"
+        },
+        {
+          "name": "2.5 Kazama Kouki (M)",
+          "image": "assets/vehicle-configs/f2dcbe75aa118563f3ac.webp"
+        },
+        {
+          "name": "2.5 TRD Zenki (A)",
+          "image": "assets/vehicle-configs/48c2e6b088c42389085f.webp"
+        },
+        {
+          "name": "2.5 Tourer V Kouki (M)",
+          "image": "assets/vehicle-configs/2fa660996a1f77a7985c.webp"
+        },
+        {
+          "name": "2.5 Tourer V Zenki (M)",
+          "image": "assets/vehicle-configs/cc23f80abaf2643add90.webp"
+        },
+        {
+          "name": "2.5 Zenki Feel (M)",
+          "image": "assets/vehicle-configs/f27a84f32c88465e8851.webp"
+        },
+        {
+          "name": "3.0 Bn-Sports Zenki (M)",
+          "image": "assets/vehicle-configs/464792e6ffeefdc0b5d5.webp"
+        },
+        {
+          "name": "3.0 Drift Zenki (M)",
+          "image": "assets/vehicle-configs/5c6840bcb6357a4f1d0d.webp"
+        },
+        {
+          "name": "3.0 Kouki 444 PERFORMANCE (M)",
+          "image": "assets/vehicle-configs/30bcdb22ff243e8b022c.webp"
+        },
+        {
+          "name": "3.0 Traum Zenki (A)",
+          "image": "assets/vehicle-configs/cee2f9ef90abf65f45c6.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/b6bdbb5137e934d893cc.webp",
+      "defaultConfig": "2.5 Tourer V Zenki (M)"
+    },
+    {
+      "id": "altezza",
+      "model": "LXRaltezza",
+      "name": "Toyota Altezza",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/LXRaltezza/info.json",
+      "sourceInfoSha256": "cf46879049df5c07204c37f9ed036adefddeb6a509a0abd2d6985705c6bd9076",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "Altezza",
+          "image": "assets/vehicle-configs/4dfc7981bea5b70c7eb2.webp"
+        },
+        {
+          "name": "Altezza_BN_Sport",
+          "image": "assets/vehicle-configs/01f6cdb163df890432c4.webp"
+        },
+        {
+          "name": "Altezza_BN_Sport_Custom",
+          "image": "assets/vehicle-configs/83f940d7c4d60389eeca.webp"
+        },
+        {
+          "name": "Altezza_C_WEST",
+          "image": "assets/vehicle-configs/5529419402621af7ad1b.webp"
+        },
+        {
+          "name": "Altezza_Custom",
+          "image": "assets/vehicle-configs/81d0a02cbfa6a210931a.webp"
+        },
+        {
+          "name": "Altezza_Police_RHD",
+          "image": "assets/vehicle-configs/8acb9a9f006396cb7ca7.webp"
+        },
+        {
+          "name": "Altezza_Race",
+          "image": "assets/vehicle-configs/986039c5ae798ed83540.webp"
+        },
+        {
+          "name": "Altezza_Stock_Plus",
+          "image": "assets/vehicle-configs/fd84321da9e61599736e.webp"
+        },
+        {
+          "name": "Altezza_TRD",
+          "image": "assets/vehicle-configs/ac0ba549ece0bbf08200.webp"
+        },
+        {
+          "name": "Altezza_TRD_neo_V2",
+          "image": "assets/vehicle-configs/a6da66f4ade2331cdd46.webp"
+        },
+        {
+          "name": "Altezza_Top_secret_RHD",
+          "image": "assets/vehicle-configs/8fe069fce6b1c0c90d18.webp"
+        },
+        {
+          "name": "Altezza_Vertex_Custom_RHD",
+          "image": "assets/vehicle-configs/58c804af5beb6ee7a513.webp"
+        },
+        {
+          "name": "Altezza_Vertex_RHD",
+          "image": "assets/vehicle-configs/5ee0af45a6cfda8cdbd6.webp"
+        },
+        {
+          "name": "Lexus_IS_300_BN_SPORT_Custom_RHD",
+          "image": "assets/vehicle-configs/aed464e980119ac603e9.webp"
+        },
+        {
+          "name": "Lexus_IS_300_BN_SPORT_LHD",
+          "image": "assets/vehicle-configs/3f52b25f2571b69f65d1.webp"
+        },
+        {
+          "name": "Lexus_IS_300_BN_SPORT_RHD",
+          "image": "assets/vehicle-configs/47cfcde46bb602ff87c9.webp"
+        },
+        {
+          "name": "Lexus_IS_300_C_WEST_LHD",
+          "image": "assets/vehicle-configs/4ddb723f34e1c6d45a88.webp"
+        },
+        {
+          "name": "Lexus_IS_300_C_WEST_RHD",
+          "image": "assets/vehicle-configs/005397d6111e742f858b.webp"
+        },
+        {
+          "name": "Lexus_IS_300_Custom_RHD",
+          "image": "assets/vehicle-configs/94c2b9c84bd873027ef8.webp"
+        },
+        {
+          "name": "Lexus_IS_300_Custom_Vertex_RHD",
+          "image": "assets/vehicle-configs/1ad7a38a61db4fe175d1.webp"
+        },
+        {
+          "name": "Lexus_IS_300_Drift_LHD",
+          "image": "assets/vehicle-configs/cc9b874d3e597c354698.webp"
+        },
+        {
+          "name": "Lexus_IS_300_LHD",
+          "image": "assets/vehicle-configs/47227231b7b52b14b291.webp"
+        },
+        {
+          "name": "Lexus_IS_300_LHD_Stock_Plus",
+          "image": "assets/vehicle-configs/87c686b251cccfc55b07.webp"
+        },
+        {
+          "name": "Lexus_IS_300_LHD_USDM",
+          "image": "assets/vehicle-configs/7fb024d5a3271fd25120.webp"
+        },
+        {
+          "name": "Lexus_IS_300_RHD",
+          "image": "assets/vehicle-configs/cd53c7669768773a9715.webp"
+        },
+        {
+          "name": "Lexus_IS_300_RHD_Stock_Plus",
+          "image": "assets/vehicle-configs/cda4ab5cbf9857e3e839.webp"
+        },
+        {
+          "name": "Lexus_IS_300_TRD_bodykit_LHD",
+          "image": "assets/vehicle-configs/67a7aef0070a6e162b93.webp"
+        },
+        {
+          "name": "Lexus_IS_300_Vertex_LHD",
+          "image": "assets/vehicle-configs/231acaf55e8160942007.webp"
+        },
+        {
+          "name": "Lexus_IS_300_Vertex_RHD",
+          "image": "assets/vehicle-configs/26538ac018d90f29a2fe.webp"
+        },
+        {
+          "name": "twotone",
+          "image": "assets/vehicle-configs/fa3338a34cf330e20602.webp"
+        },
+        {
+          "name": "Street Drift by RedSuns",
+          "image": "assets/vehicle-configs/edc8217cdc143cf111a1.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/776bebdbe5f643211dfc.webp",
+      "defaultConfig": "Altezza"
+    },
+    {
+      "id": "rx7fd",
+      "model": "estfd3s",
+      "name": "Mazda RX-7 (FD3S)",
+      "brand": "Mazda",
+      "brandId": "mazda",
+      "sourceInfo": "vehicles/estfd3s/info.json",
+      "sourceInfoSha256": "e5bc4c0a741b16c82ac82a69c160c1a6ab03ac2d889ea9a751235d2aaa6721f5",
+      "sourceBrand": "Mazda",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "Spec by desu",
+          "image": "assets/vehicle-configs/a4bba7b6ec365b2a07b8.webp"
+        },
+        {
+          "name": "base",
+          "image": "assets/vehicle-configs/1bc32223fab924222075.webp"
+        },
+        {
+          "name": "prefacelift",
+          "image": "assets/vehicle-configs/f78bda2c591d8007b9cd.webp"
+        },
+        {
+          "name": "reame",
+          "image": "assets/vehicle-configs/1f16cf30c4410d3f62f1.webp"
+        },
+        {
+          "name": "spirit",
+          "image": "assets/vehicle-configs/12f6895bebe538f3223f.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/fd9d2ee598924eb2bffa.webp",
+      "defaultConfig": "spirit"
+    },
+    {
+      "id": "jzs171",
+      "model": "jzs171w",
+      "name": "Toyota Crown Athlete Estate",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/jzs171w/info.json",
+      "sourceInfoSha256": "a4a6d2419c6ad23ebcc20064f022b764bb63ff3894ff617fd3b210ca6a080ee2",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "drift",
+          "image": "assets/vehicle-configs/adba13ee4a4b3784804e.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/52924bd909faf7e5f6d0.webp",
+      "defaultConfig": "drift"
+    },
+    {
+      "id": "e92",
+      "model": "m3e92_wsife",
+      "name": "BMW M3 E92",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "sourceInfo": "vehicles/m3e92_wsife/info.json",
+      "sourceInfoSha256": "2fb5d233505e8073a048debb6e04437563d82ba359379d15e769bfd4a7353b71",
+      "sourceBrand": "BMW",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "AX53 Spec by desu — tg @bydesu",
+          "image": "assets/vehicle-configs/07444968601e332340e7.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/f88471c7628e141f2a46.webp",
+      "defaultConfig": "AX53 Spec by desu — tg @bydesu"
+    },
+    {
+      "id": "mark2jzx90",
+      "model": "meowmkiix90",
+      "name": "Toyota Mark II (X90)",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/meowmkiix90/info.json",
+      "sourceInfoSha256": "72cebceaef8d14e84ec053293042eaf081c4b85f6936590129ce9a6f5559e5c6",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "beater_A",
+          "image": "assets/vehicle-configs/511b419d785118e703d9.webp"
+        },
+        {
+          "name": "derby_M",
+          "image": "assets/vehicle-configs/59f8cd1ca33e18055cc5.webp"
+        },
+        {
+          "name": "drag_A",
+          "image": "assets/vehicle-configs/862c2b538fef39c707b3.webp"
+        },
+        {
+          "name": "gl_1.8_early_A",
+          "image": "assets/vehicle-configs/d36af61da5db2b65d521.webp"
+        },
+        {
+          "name": "gl_1.8_early_M",
+          "image": "assets/vehicle-configs/c79fa9661378de551780.webp"
+        },
+        {
+          "name": "gl_1.8_early_daiwa_A",
+          "image": "assets/vehicle-configs/a550e14395da4ffec442.webp"
+        },
+        {
+          "name": "gl_1.8_early_kojin_A",
+          "image": "assets/vehicle-configs/d0d9cb009ee54585e3a2.webp"
+        },
+        {
+          "name": "gl_1.8_early_kotsu_A",
+          "image": "assets/vehicle-configs/076f33da0a1b6a02ba59.webp"
+        },
+        {
+          "name": "gl_1.8_early_musen_A",
+          "image": "assets/vehicle-configs/a8db31f96a1a9d257793.webp"
+        },
+        {
+          "name": "gl_1.8_early_teito_A",
+          "image": "assets/vehicle-configs/1ba56d5f90dd5592ff62.webp"
+        },
+        {
+          "name": "gl_1.8_late_A",
+          "image": "assets/vehicle-configs/c42154e9d7919eabe5be.webp"
+        },
+        {
+          "name": "gl_1.8_late_M",
+          "image": "assets/vehicle-configs/ba38d3202497499a3613.webp"
+        },
+        {
+          "name": "gl_2.4d_early_A",
+          "image": "assets/vehicle-configs/21af52c3e26e1252ffcc.webp"
+        },
+        {
+          "name": "gl_2.4d_early_M",
+          "image": "assets/vehicle-configs/ec64c7d53ae0e4f8045d.webp"
+        },
+        {
+          "name": "gl_2.4d_late_A",
+          "image": "assets/vehicle-configs/a98ac48b63d2967f9eeb.webp"
+        },
+        {
+          "name": "gl_2.4d_late_M",
+          "image": "assets/vehicle-configs/0ccc8ea78e50c6ab77b6.webp"
+        },
+        {
+          "name": "grande_2.0_early_A",
+          "image": "assets/vehicle-configs/7def0d70943370873d48.webp"
+        },
+        {
+          "name": "grande_2.0_early_M",
+          "image": "assets/vehicle-configs/9e07327fc1e104f6de5f.webp"
+        },
+        {
+          "name": "grande_2.0_late_A",
+          "image": "assets/vehicle-configs/18fd17a0ebfd23020739.webp"
+        },
+        {
+          "name": "grande_2.0_late_M",
+          "image": "assets/vehicle-configs/ff27357d1be5f9552669.webp"
+        },
+        {
+          "name": "grande_2.5_early_A",
+          "image": "assets/vehicle-configs/d415f99dcd48e2adceec.webp"
+        },
+        {
+          "name": "grande_2.5_four_early_A",
+          "image": "assets/vehicle-configs/6ce48beb691f224714f0.webp"
+        },
+        {
+          "name": "grande_2.5_four_late_A",
+          "image": "assets/vehicle-configs/7cdc707a9c1f1cd592ed.webp"
+        },
+        {
+          "name": "grande_2.5_late_A",
+          "image": "assets/vehicle-configs/5f1aa1d0d2e91bccc9cb.webp"
+        },
+        {
+          "name": "grande_2.5_regalia_early_A",
+          "image": "assets/vehicle-configs/c163255d641ca7455a9d.webp"
+        },
+        {
+          "name": "grande_2.5_regalia_late_A",
+          "image": "assets/vehicle-configs/6308d356014977698abc.webp"
+        },
+        {
+          "name": "grande_g_2.5_early_A",
+          "image": "assets/vehicle-configs/d1183874bb8bc20b654a.webp"
+        },
+        {
+          "name": "grande_g_2.5_early_police_jp_A",
+          "image": "assets/vehicle-configs/c63c138ace564d02fa36.webp"
+        },
+        {
+          "name": "grande_g_2.5_four_early_A",
+          "image": "assets/vehicle-configs/b584e2f1ce63086bc037.webp"
+        },
+        {
+          "name": "grande_g_2.5_four_late_A",
+          "image": "assets/vehicle-configs/1d93e3e499fb45915954.webp"
+        },
+        {
+          "name": "grande_g_2.5_late_A",
+          "image": "assets/vehicle-configs/567c532faa323256fe9b.webp"
+        },
+        {
+          "name": "grande_g_3.0_early_A",
+          "image": "assets/vehicle-configs/af9e27db8428a355f93b.webp"
+        },
+        {
+          "name": "grande_g_3.0_late_A",
+          "image": "assets/vehicle-configs/4ccad2d916102ae69462.webp"
+        },
+        {
+          "name": "grande_g_3.0_navi_early_A",
+          "image": "assets/vehicle-configs/b5bb6ac680ee28d91cda.webp"
+        },
+        {
+          "name": "grande_g_3.0_navi_late_A",
+          "image": "assets/vehicle-configs/d06eb06c3d08b24b1c14.webp"
+        },
+        {
+          "name": "grande_g_3.0_navi_late_fulloption_A",
+          "image": "assets/vehicle-configs/3491f98c9003bc2217a3.webp"
+        },
+        {
+          "name": "groire_1.8_early_A",
+          "image": "assets/vehicle-configs/ed9d9e9773e9f9580539.webp"
+        },
+        {
+          "name": "groire_1.8_early_M",
+          "image": "assets/vehicle-configs/68dd6bc54fd05b4a1be9.webp"
+        },
+        {
+          "name": "groire_1.8_late_A",
+          "image": "assets/vehicle-configs/899484439107e423c93d.webp"
+        },
+        {
+          "name": "groire_1.8_late_M",
+          "image": "assets/vehicle-configs/759f13d91095c43bb13c.webp"
+        },
+        {
+          "name": "groire_2.4d_early_A",
+          "image": "assets/vehicle-configs/56c41d29f53f595c88d5.webp"
+        },
+        {
+          "name": "groire_2.4d_early_M",
+          "image": "assets/vehicle-configs/497882dcf55ea9640b13.webp"
+        },
+        {
+          "name": "groire_2.4d_late_A",
+          "image": "assets/vehicle-configs/5ec43a6819ce68ec297e.webp"
+        },
+        {
+          "name": "groire_2.4d_late_M",
+          "image": "assets/vehicle-configs/39128514927681248b5c.webp"
+        },
+        {
+          "name": "offroad_A",
+          "image": "assets/vehicle-configs/e591aff1ca4d49b0709b.webp"
+        },
+        {
+          "name": "pro_drift_M",
+          "image": "assets/vehicle-configs/b37a761cd28ae1a37f63.webp"
+        },
+        {
+          "name": "street_drift_M",
+          "image": "assets/vehicle-configs/45e20c43625cdd4f9650.webp"
+        },
+        {
+          "name": "top_speed_M",
+          "image": "assets/vehicle-configs/da7ce9d1895fa3c7c927.webp"
+        },
+        {
+          "name": "tourer_s_3.0_early_A",
+          "image": "assets/vehicle-configs/eee731e0b403748ee471.webp"
+        },
+        {
+          "name": "tourer_s_3.0_late_A",
+          "image": "assets/vehicle-configs/dbbba7c64bee164a6f0b.webp"
+        },
+        {
+          "name": "tourer_v_3.0_early_A",
+          "image": "assets/vehicle-configs/ab405e94411f1eae7e93.webp"
+        },
+        {
+          "name": "tourer_v_3.0_early_M",
+          "image": "assets/vehicle-configs/d06f1a78f98f86024716.webp"
+        },
+        {
+          "name": "tourer_v_3.0_late_A",
+          "image": "assets/vehicle-configs/c4fb544daaa752599519.webp"
+        },
+        {
+          "name": "tourer_v_3.0_late_M",
+          "image": "assets/vehicle-configs/f6b41154942a30488c01.webp"
+        },
+        {
+          "name": "tourer_v_bn_M",
+          "image": "assets/vehicle-configs/d9a9470eebc4d78748e0.webp"
+        },
+        {
+          "name": "tourer_v_uras_custom_M",
+          "image": "assets/vehicle-configs/08efe46dcef06bd0554f.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/cbd600ba0a7e45425722.webp",
+      "defaultConfig": "grande_2.5_late_A"
+    },
+    {
+      "id": "silvias15",
+      "model": "mmp_s15",
+      "name": "Nissan Silvia S15",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "sourceInfo": "vehicles/mmp_s15/info.json",
+      "sourceInfoSha256": "495af0c9bdbad080db5704e1db184a0f07e83081b501a9c1edf50062c0035ee3",
+      "sourceBrand": "B3",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "! BE3DARNOST",
+          "image": "assets/vehicle-configs/df5edf8eb8b2ead9be0f.webp"
+        },
+        {
+          "name": "12.5.1 Spec",
+          "image": "assets/vehicle-configs/d1e50664b4d2ba149fd5.webp"
+        },
+        {
+          "name": "13 Years In Garage",
+          "image": "assets/vehicle-configs/1ab043c6722a489d4786.webp"
+        },
+        {
+          "name": "9 Works Sport Spec",
+          "image": "assets/vehicle-configs/7bb4200db48521bcc44e.webp"
+        },
+        {
+          "name": "AC ahh config",
+          "image": "assets/vehicle-configs/6fa95ff44ab3f0529da9.webp"
+        },
+        {
+          "name": "American Pink Missile",
+          "image": "assets/vehicle-configs/336eb71c39c892041b8f.webp"
+        },
+        {
+          "name": "American Soft Pink Pure",
+          "image": "assets/vehicle-configs/6352e1b59db231ae4383.webp"
+        },
+        {
+          "name": "American Student Spec",
+          "image": "assets/vehicle-configs/fe9b2eae285d786394c6.webp"
+        },
+        {
+          "name": "American Yellow Missile",
+          "image": "assets/vehicle-configs/21fb79473e3d8152dc29.webp"
+        },
+        {
+          "name": "Animal Style Origin Labo",
+          "image": "assets/vehicle-configs/db3da3a56fd5c4e059eb.webp"
+        },
+        {
+          "name": "Annihilated",
+          "image": "assets/vehicle-configs/5c54b59a67efe07a4875.webp"
+        },
+        {
+          "name": "Blind Violet",
+          "image": "assets/vehicle-configs/d8023b0126e504f3a7f1.webp"
+        },
+        {
+          "name": "Bone Missile Spec",
+          "image": "assets/vehicle-configs/61beb327cb276e2164b4.webp"
+        },
+        {
+          "name": "Brown Perfection",
+          "image": "assets/vehicle-configs/835186a988d4f96c0191.webp"
+        },
+        {
+          "name": "Build it yourself",
+          "image": "assets/vehicle-configs/283f660e7b1897806e06.webp"
+        },
+        {
+          "name": "Clean Mountain Spec",
+          "image": "assets/vehicle-configs/6c60cf3740387da8c8ac.webp"
+        },
+        {
+          "name": "Clear Vegetable",
+          "image": "assets/vehicle-configs/2b6c990c33941f0ef501.webp"
+        },
+        {
+          "name": "Combat Japanese Street Spec",
+          "image": "assets/vehicle-configs/e8853b2ca1b3a764a3dc.webp"
+        },
+        {
+          "name": "Dark Cherry Japanese Street",
+          "image": "assets/vehicle-configs/6d665979026ce6b3a092.webp"
+        },
+        {
+          "name": "Double Six Japan Style",
+          "image": "assets/vehicle-configs/cefb53976f785e6edd61.webp"
+        },
+        {
+          "name": "East Coast Stance (B3W)",
+          "image": "assets/vehicle-configs/7b75b7a3e82d4baabc5b.webp"
+        },
+        {
+          "name": "Frankenstein",
+          "image": "assets/vehicle-configs/e1f4995523d221ac7b0c.webp"
+        },
+        {
+          "name": "Freak",
+          "image": "assets/vehicle-configs/9d0544604b7592a01c4c.webp"
+        },
+        {
+          "name": "Frog",
+          "image": "assets/vehicle-configs/4993a1ea28409b873cbf.webp"
+        },
+        {
+          "name": "G-Sonic Stance",
+          "image": "assets/vehicle-configs/42c92b6e4a584ddc10a8.webp"
+        },
+        {
+          "name": "GTR34 Spec",
+          "image": "assets/vehicle-configs/544dc9757b2b1e52e759.webp"
+        },
+        {
+          "name": "Garage Shrek",
+          "image": "assets/vehicle-configs/371f6ba94dde93045001.webp"
+        },
+        {
+          "name": "Ghetto Whip",
+          "image": "assets/vehicle-configs/a514b269270115f0da6f.webp"
+        },
+        {
+          "name": "Goodride 212",
+          "image": "assets/vehicle-configs/5187bd772337fde17d4b.webp"
+        },
+        {
+          "name": "Goodride Garage Missile",
+          "image": "assets/vehicle-configs/867f6ba2719796ddd952.webp"
+        },
+        {
+          "name": "GrayEyed Suicide",
+          "image": "assets/vehicle-configs/96f58591ab9547cc58c5.webp"
+        },
+        {
+          "name": "Grey Black Roof",
+          "image": "assets/vehicle-configs/a008e6ccfdb801f1272b.webp"
+        },
+        {
+          "name": "Hard Luxe",
+          "image": "assets/vehicle-configs/07dbf389591cb3fefdd0.webp"
+        },
+        {
+          "name": "INVALID",
+          "image": "assets/vehicle-configs/2efbbc71cc25c1266f7d.webp"
+        },
+        {
+          "name": "ITS NOT STACKED!",
+          "image": "assets/vehicle-configs/e78b89691ede79043970.webp"
+        },
+        {
+          "name": "ITS STACKED!",
+          "image": "assets/vehicle-configs/4e547090302ed3fb7ea0.webp"
+        },
+        {
+          "name": "Its cutie!",
+          "image": "assets/vehicle-configs/94891e279724cdd49d49.webp"
+        },
+        {
+          "name": "Japan Black Missile",
+          "image": "assets/vehicle-configs/80b98ccafae4efe9b9f9.webp"
+        },
+        {
+          "name": "Japan Red Missile",
+          "image": "assets/vehicle-configs/10bbac646472db60685c.webp"
+        },
+        {
+          "name": "Japan Violet Missile",
+          "image": "assets/vehicle-configs/606ce515693aa01823e2.webp"
+        },
+        {
+          "name": "Japanese Collector 2010",
+          "image": "assets/vehicle-configs/f345bfb88d0cf582ddf7.webp"
+        },
+        {
+          "name": "Japanese Demon Six Hundred Power",
+          "image": "assets/vehicle-configs/fdf9c11782e9c23046a4.webp"
+        },
+        {
+          "name": "Js chillin",
+          "image": "assets/vehicle-configs/e78b4a1230ff7ddb8750.webp"
+        },
+        {
+          "name": "KUNAGAWA WAVE!",
+          "image": "assets/vehicle-configs/6a5069dd2def5e50b990.webp"
+        },
+        {
+          "name": "Kazama Promode SS Aero",
+          "image": "assets/vehicle-configs/fff1b990c5e82ade2331.webp"
+        },
+        {
+          "name": "Kazama Stance",
+          "image": "assets/vehicle-configs/6f4ebecc9af74878d933.webp"
+        },
+        {
+          "name": "Kendy Stance",
+          "image": "assets/vehicle-configs/c1a8bea16d094aab3b19.webp"
+        },
+        {
+          "name": "Kill Spec",
+          "image": "assets/vehicle-configs/89e8f48876204715ea4d.webp"
+        },
+        {
+          "name": "Killer!",
+          "image": "assets/vehicle-configs/8cc15ba03fbd8a5baefc.webp"
+        },
+        {
+          "name": "LBWK",
+          "image": "assets/vehicle-configs/873fa8e7cdda79609c2f.webp"
+        },
+        {
+          "name": "M-Sport Spec",
+          "image": "assets/vehicle-configs/3b42a538235fca228c75.webp"
+        },
+        {
+          "name": "Mafia Mode",
+          "image": "assets/vehicle-configs/02ffdc13b250808dd96d.webp"
+        },
+        {
+          "name": "Marlboro",
+          "image": "assets/vehicle-configs/e1d45adfa553738116c8.webp"
+        },
+        {
+          "name": "Mega Putty!",
+          "image": "assets/vehicle-configs/b1b22590e5f84b45b024.webp"
+        },
+        {
+          "name": "Missile Construction Spec",
+          "image": "assets/vehicle-configs/1224641bdeea2b99fb75.webp"
+        },
+        {
+          "name": "Moonlight Sonata",
+          "image": "assets/vehicle-configs/87b79998c7206a6ce45d.webp"
+        },
+        {
+          "name": "Mountain Spec 2005",
+          "image": "assets/vehicle-configs/a12c9cc1c3b7bea07ffc.webp"
+        },
+        {
+          "name": "Mullvad",
+          "image": "assets/vehicle-configs/abdf1eaaccff0bc6268a.webp"
+        },
+        {
+          "name": "Ocean",
+          "image": "assets/vehicle-configs/8f08777878af3f6a632d.webp"
+        },
+        {
+          "name": "Precise Low",
+          "image": "assets/vehicle-configs/f591cd6d688b387c6c27.webp"
+        },
+        {
+          "name": "Purple Fukuoka Style",
+          "image": "assets/vehicle-configs/749f6744ca12d713668f.webp"
+        },
+        {
+          "name": "RD Style",
+          "image": "assets/vehicle-configs/51734698baf2357cc546.webp"
+        },
+        {
+          "name": "Red Missile Meihan Spec",
+          "image": "assets/vehicle-configs/9b8af2544b082e0a3bbb.webp"
+        },
+        {
+          "name": "Robbed Spec",
+          "image": "assets/vehicle-configs/d08eb219662c4de51c9d.webp"
+        },
+        {
+          "name": "Romantic Street",
+          "image": "assets/vehicle-configs/da422a0879b98624ce8d.webp"
+        },
+        {
+          "name": "Shark",
+          "image": "assets/vehicle-configs/4d7a8018dbad71d225b1.webp"
+        },
+        {
+          "name": "Shirtstuckedin",
+          "image": "assets/vehicle-configs/b10a53d0e1e8e9e4f5ff.webp"
+        },
+        {
+          "name": "Silver Silvia",
+          "image": "assets/vehicle-configs/3d6ea8e74cca13e4468c.webp"
+        },
+        {
+          "name": "Sky Dreams",
+          "image": "assets/vehicle-configs/8dbe697a1d283e93a937.webp"
+        },
+        {
+          "name": "Sleeping Cinderella",
+          "image": "assets/vehicle-configs/e596353361973a6cb202.webp"
+        },
+        {
+          "name": "Snow White",
+          "image": "assets/vehicle-configs/a426334392e875c103a4.webp"
+        },
+        {
+          "name": "Spec Z Swag!",
+          "image": "assets/vehicle-configs/961ad5c2a000eb06f2cc.webp"
+        },
+        {
+          "name": "Sport Spec",
+          "image": "assets/vehicle-configs/8ea68266f7e3d5b3ca2d.webp"
+        },
+        {
+          "name": "Sporty Bitch",
+          "image": "assets/vehicle-configs/62ae61e075f00f4654df.webp"
+        },
+        {
+          "name": "Streetwalker",
+          "image": "assets/vehicle-configs/8a76b8f0ed49e9e32ab4.webp"
+        },
+        {
+          "name": "Strstrstrawberry",
+          "image": "assets/vehicle-configs/ea31cfeb8a2d480f2f81.webp"
+        },
+        {
+          "name": "Sunny Sport",
+          "image": "assets/vehicle-configs/7a1a285ee8bd50e71e1d.webp"
+        },
+        {
+          "name": "Swiss Ragamuffin",
+          "image": "assets/vehicle-configs/58c5ac8bafdff25d032b.webp"
+        },
+        {
+          "name": "Tacky Italian Millionaire",
+          "image": "assets/vehicle-configs/a4a0e570c438ccac543a.webp"
+        },
+        {
+          "name": "Top Secret Sport",
+          "image": "assets/vehicle-configs/30456d03b0dd7bb9e254.webp"
+        },
+        {
+          "name": "Total White",
+          "image": "assets/vehicle-configs/9913ae6a386b1682d388.webp"
+        },
+        {
+          "name": "USS Beater",
+          "image": "assets/vehicle-configs/2e0b5ae69a3021f249c3.webp"
+        },
+        {
+          "name": "Uras Type S Stance",
+          "image": "assets/vehicle-configs/08bddcf064dd41cd0a33.webp"
+        },
+        {
+          "name": "Uras Type S White-Red",
+          "image": "assets/vehicle-configs/17338b5b5f31f31d2a7c.webp"
+        },
+        {
+          "name": "Veilside - Abstract Art",
+          "image": "assets/vehicle-configs/2c340423a350eb531c44.webp"
+        },
+        {
+          "name": "Veilside D1",
+          "image": "assets/vehicle-configs/a0d25a47300453c7a751.webp"
+        },
+        {
+          "name": "White Missile Sport Cracked Paint",
+          "image": "assets/vehicle-configs/1e8cbfee178c719a498d.webp"
+        },
+        {
+          "name": "White Missile",
+          "image": "assets/vehicle-configs/9bff38033fa4378270f8.webp"
+        },
+        {
+          "name": "White-Blue Cut Missile",
+          "image": "assets/vehicle-configs/e3f4ddb6b5a6fb2c0e6d.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/982ed364d3706515d76c.webp",
+      "defaultConfig": "! BE3DARNOST"
+    },
+    {
+      "id": "skyliner32kam1",
+      "model": "r32",
+      "name": "Nissan Skyline R32",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "sourceInfo": "vehicles/r32/info.json",
+      "sourceInfoSha256": "e21d2b00f1f96c8e2776daa7a3607663c4d34f0f020d4d20277b282fa9778021",
+      "sourceBrand": "Nissan",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "460HP Purp Aboomon Livery",
+          "image": "assets/vehicle-configs/fdf3c7582c254f250607.webp"
+        },
+        {
+          "name": "510HP Pink Kamitsura Livery",
+          "image": "assets/vehicle-configs/e48d2541ad674751a2b1.webp"
+        },
+        {
+          "name": "820HP Blue Calsonic Livery",
+          "image": "assets/vehicle-configs/12197c6ab711f9b03bc4.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/bbafd223121cacabd899.webp",
+      "defaultConfig": "510HP Pink Kamitsura Livery"
+    },
+    {
+      "id": "skyliner34",
+      "model": "LXRR34",
+      "name": "Nissan Skyline R34",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "sourceInfo": "vehicles/LXRR34/info.json",
+      "sourceInfoSha256": "29558cea87004e9abc7d7873d61c7d336b7b5a39e2aeb7bed221e60cb3f9379a",
+      "sourceBrand": "Nissan",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "2fast2furious",
+          "image": "assets/vehicle-configs/12793dd71b61d9ff7ddd.webp"
+        },
+        {
+          "name": "Abflug",
+          "image": "assets/vehicle-configs/7d1e4a14076e37afef87.webp"
+        },
+        {
+          "name": "Blitz",
+          "image": "assets/vehicle-configs/b224f06389b8028e88c3.webp"
+        },
+        {
+          "name": "Bomex",
+          "image": "assets/vehicle-configs/bb697e58e325139c4d17.webp"
+        },
+        {
+          "name": "C_west",
+          "image": "assets/vehicle-configs/4822afd992cec9052314.webp"
+        },
+        {
+          "name": "Do_Luck",
+          "image": "assets/vehicle-configs/c5614c02593ae78ce045.webp"
+        },
+        {
+          "name": "Eastsiders",
+          "image": "assets/vehicle-configs/7db781ec7db0604b9c60.webp"
+        },
+        {
+          "name": "GT_R_AWD",
+          "image": "assets/vehicle-configs/95c8753f23a4ae3ebab9.webp"
+        },
+        {
+          "name": "GT_R_custom_kit_AWD",
+          "image": "assets/vehicle-configs/be1e30adeb08c76c1fab.webp"
+        },
+        {
+          "name": "GT_T_Custom_kit_RWD",
+          "image": "assets/vehicle-configs/6112f03dfc768e1a625e.webp"
+        },
+        {
+          "name": "GT_T_NISMO_RWD",
+          "image": "assets/vehicle-configs/d69d013341f8d0b9195f.webp"
+        },
+        {
+          "name": "GT_T_OEM_RWD",
+          "image": "assets/vehicle-configs/42a85a27a3d5b1983e3d.webp"
+        },
+        {
+          "name": "GT_T_RWD",
+          "image": "assets/vehicle-configs/12d13f43ff0d3c8b25f5.webp"
+        },
+        {
+          "name": "R34 Spec by desu",
+          "image": "assets/vehicle-configs/82f56e8b01da821ea50b.webp"
+        },
+        {
+          "name": "Stanced",
+          "image": "assets/vehicle-configs/18d544af77109992a417.webp"
+        },
+        {
+          "name": "Stripped",
+          "image": "assets/vehicle-configs/550348f59d49147d6867.webp"
+        },
+        {
+          "name": "Tommy_Kaira",
+          "image": "assets/vehicle-configs/9d0715cb74ec46d0f7af.webp"
+        },
+        {
+          "name": "Top_secret",
+          "image": "assets/vehicle-configs/70493fb68184591b9717.webp"
+        },
+        {
+          "name": "URAS",
+          "image": "assets/vehicle-configs/9c9dd12a5de70184ff64.webp"
+        },
+        {
+          "name": "Veliside",
+          "image": "assets/vehicle-configs/184667504623f721063b.webp"
+        },
+        {
+          "name": "Z_tune",
+          "image": "assets/vehicle-configs/538f34ccd67d82fbb729.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/92c0193017b9e615b1d3.webp",
+      "defaultConfig": "GT_R_AWD"
+    },
+    {
+      "id": "supraa80",
+      "model": "estjza80",
+      "name": "Toyota Supra JZA80",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "sourceInfo": "vehicles/estjza80/info.json",
+      "sourceInfoSha256": "cd1e4adf55bb401760c2607323a1e7a3a79a97312eb487e53e533ea377ff39e7",
+      "sourceBrand": "Toyota",
+      "servers": [
+        "server-1",
+        "server-2"
+      ],
+      "configurations": [
+        {
+          "name": "A80 spec by desu",
+          "image": "assets/vehicle-configs/ee003ea77db5e8f8fff2.webp"
+        },
+        {
+          "name": "Drift Alt",
+          "image": "assets/vehicle-configs/bac3c78a4e020928faf9.webp"
+        },
+        {
+          "name": "Everything Drift Flame Tune",
+          "image": "assets/vehicle-configs/0679a99cf9414a2d93ce.webp"
+        },
+        {
+          "name": "RZ_A",
+          "image": "assets/vehicle-configs/1143e5f533c74db83079.webp"
+        },
+        {
+          "name": "RZ_M",
+          "image": "assets/vehicle-configs/fbe9490032791976be97.webp"
+        },
+        {
+          "name": "RZ_targa_A",
+          "image": "assets/vehicle-configs/52908a8d943931e22f57.webp"
+        },
+        {
+          "name": "RZ_targa_M",
+          "image": "assets/vehicle-configs/f61a9d4d304dd8680207.webp"
+        },
+        {
+          "name": "SE_A",
+          "image": "assets/vehicle-configs/43b53eb373d8325987cd.webp"
+        },
+        {
+          "name": "SE_M",
+          "image": "assets/vehicle-configs/b4abc27ba0d1ce5a4edc.webp"
+        },
+        {
+          "name": "SE_targa_A",
+          "image": "assets/vehicle-configs/30c752075690362a3d8b.webp"
+        },
+        {
+          "name": "SE_targa_M",
+          "image": "assets/vehicle-configs/1160c7650fdc73c441e1.webp"
+        },
+        {
+          "name": "SZ_A",
+          "image": "assets/vehicle-configs/f76ed9f7a19fecd45eb6.webp"
+        },
+        {
+          "name": "SZ_M",
+          "image": "assets/vehicle-configs/f11c61d95c5294e14134.webp"
+        },
+        {
+          "name": "SZ_targa_A",
+          "image": "assets/vehicle-configs/06e01fb4a2f2121dc956.webp"
+        },
+        {
+          "name": "SZ_targa_M",
+          "image": "assets/vehicle-configs/b12fd94cbfa7d4b32292.webp"
+        },
+        {
+          "name": "c1",
+          "image": "assets/vehicle-configs/ff46bc3a0cf940bb0b61.webp"
+        },
+        {
+          "name": "charge",
+          "image": "assets/vehicle-configs/ae0ecc7857261c65b1ea.webp"
+        },
+        {
+          "name": "drag",
+          "image": "assets/vehicle-configs/80560cdadbe0d1bcb039.webp"
+        },
+        {
+          "name": "drift",
+          "image": "assets/vehicle-configs/75cf0fd37e406aad9674.webp"
+        },
+        {
+          "name": "jun",
+          "image": "assets/vehicle-configs/1a1d88862eaade8b47b7.webp"
+        },
+        {
+          "name": "paul",
+          "image": "assets/vehicle-configs/dab515bc391cb9071a77.webp"
+        },
+        {
+          "name": "street",
+          "image": "assets/vehicle-configs/1496812e142d0e46ee43.webp"
+        },
+        {
+          "name": "topsecret_wide",
+          "image": "assets/vehicle-configs/a3cc026354c040a243e7.webp"
+        },
+        {
+          "name": "trd",
+          "image": "assets/vehicle-configs/f4eb08f0ba9892a6cfb1.webp"
+        },
+        {
+          "name": "turbo_A",
+          "image": "assets/vehicle-configs/9b1b05ce2074cca29c34.webp"
+        },
+        {
+          "name": "turbo_M",
+          "image": "assets/vehicle-configs/2db52c86fa37c8221028.webp"
+        },
+        {
+          "name": "turbo_targa_A",
+          "image": "assets/vehicle-configs/1940f16c759c52404b66.webp"
+        },
+        {
+          "name": "turbo_targa_M",
+          "image": "assets/vehicle-configs/12ae72df6bb071439928.webp"
+        },
+        {
+          "name": "wangan",
+          "image": "assets/vehicle-configs/e171c7c8cea022ab1cc7.webp"
+        }
+      ],
+      "image": "assets/vehicle-configs/5abc9c0587a865e4fa09.webp",
+      "defaultConfig": "turbo_M"
+    }
+  ]
+}
